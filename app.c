@@ -32,7 +32,7 @@ int main() {
         scanf("%d %d", &x, &y);
         printf("Sum: %d\n", addNumbers(x, y));
     } else {
-        printf("Goodbye!\n");
+        printf("nannannanannananna\n");
     }
     return 0;
 }
